@@ -35,7 +35,6 @@ I am always open to collaborating on projects and working on innovative and disr
 
 ![Umidbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umidbeksalayev13&show_icons=true&theme=dark&count_private=true&hide=prs,issues,contribs)
 
-![Umidbek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Umidbeksalayev13&theme=dark)
 
 ![Umidbek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umidbeksalayev13&layout=compact&theme=dark)
 
