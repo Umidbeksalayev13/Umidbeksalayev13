@@ -8,6 +8,22 @@ I am always open to collaborating on projects and working on innovative and disr
 
 ## 👨‍💻 About Me:
 - 💻 Currently working with **Laravel**  
-- ⏳ Besides that, I have knowledge and experience working with **HTML, CSS, Git, and Docker**  
+- ⏳ Besides that, I have knowledge and experience working with **HTML, CSS, Git, Nginx, MySQL and Docker**  
 - 🚀 Always ready to collaborate on developer experiments  
-- ⚡ **Fun fact:** I regularly attend conferences and meetups to learn new things and network with people  
+- ⚡ **Fun fact:** I regularly attend conferences and meetups to learn new things and network with people
+
+- ## ⚡ Technologies I Work With:
+  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
