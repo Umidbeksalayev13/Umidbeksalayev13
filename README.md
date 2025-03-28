@@ -12,6 +12,8 @@ I am always open to collaborating on projects and working on innovative and disr
 - 🚀 Always ready to collaborate on developer experiments  
 - ⚡ **Fun fact:** I regularly attend conferences and meetups to learn new things and network with people
 
+  
+
 - ## ⚡ Technologies I Work With:
   
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -26,4 +28,15 @@ I am always open to collaborating on projects and working on innovative and disr
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+
+## 📊 GitHub Stats:
+
+![Umidbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umidbeksalayev13&show_icons=true&theme=dark&count_private=true&hide=prs,issues,contribs)
+
+![Umidbek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Umidbeksalayev13&theme=dark)
+
+![Umidbek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umidbeksalayev13&layout=compact&theme=dark)
+
 
