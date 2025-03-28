@@ -1,16 +1,13 @@
-## Hi there 👋
+# Umidbek - The PHP Master - Salayev
 
-<!--
-**Umidbeksalayev13/Umidbeksalayev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there! 👋
 
-Here are some ideas to get you started:
+I am Umidbek Salayev, a back-end developer specializing in building high-load systems, web applications, and server-side services using PHP and Laravel. I solve problems, automate processes, and help businesses and individuals grow and improve their lives.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always open to collaborating on projects and working on innovative and disruptive ideas.  
+
+## 👨‍💻 About Me:
+- 🔹 Currently working with **Laravel**  
+- 🔹 Besides that, I have knowledge and experience working with **HTML, CSS, Git, and Docker**  
+- 🔹 Always ready to collaborate on developer experiments  
+- 🔹 **Fun fact:** I regularly attend conferences and meetups to learn new things and network with people  
